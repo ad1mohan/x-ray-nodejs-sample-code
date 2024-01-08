@@ -88,4 +88,5 @@ Task definition for app1 (similar is for app2):
         "cpuArchitecture": "X86_64",
         "operatingSystemFamily": "LINUX"
     }
-}```
+}
+```
